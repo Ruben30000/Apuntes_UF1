@@ -4,6 +4,14 @@
 
 d'aplicació, de desenvolupament i d'execució.
 
+## Fases de desenvolupament del software
+
+- Anàlisi
+- Disseny
+- Codificació
+- Proves
+- Manteniment
+
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
