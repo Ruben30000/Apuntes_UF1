@@ -3,18 +3,18 @@
 ## Entornos de desarrollo
 
 ### Tipos de Software 
-  · De sistema (Sistema operativo, drivers)
-  · De aplicación (Suite ofimaática, Navegador, Edición de imagen)
-  · De desarrollo (Editores, compiladores, interpretes)
+  - De sistema (Sistema operativo, drivers)
+  - De aplicación (Suite ofimaática, Navegador, Edición de imagen)
+  - De desarrollo (Editores, compiladores, interpretes)
 ### Relación Hardware-Software
-  · Disco duro:
-  · Memoria RAM:
-  · CPU:
-  · E/S:
+  - Disco duro:
+  - Memoria RAM:
+  - CPU:
+  - E/S:
 ### Códigos Fuente, Objeto y Ejecutable
-· Código fuente:
-· Código Objeto:
-· Código ejecutable: 
+  - Código fuente:
+  - Código Objeto:
+  - Código ejecutable: 
 ## Ciclo de vida del Software
 ### Ingeniería de Software
 DEf:
