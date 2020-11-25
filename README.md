@@ -1,4 +1,10 @@
-# Apunts-UF1
+# ApuntEs-UF1
 
-## Tipus de software
+## Entornos de desarrollo
+
+# Ciclo de vida del Software
+# · De sistema
+
+
+# Lenguajes de Programación
 
