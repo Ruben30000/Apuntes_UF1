@@ -18,6 +18,16 @@
 ## Ciclo de vida del Software
 ### Ingeniería de Software
 La Ingeniería de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. 
+
+**Fases de la Ingeniería de Software:**
+  - Etapas del proceso.
+  - Obtención de requisitos: 
+  - Análisis de los requisitos: 
+  - Finalidades del análisis de requisitos: 
+  - Limitaciones: 
+  - Especificación: 
+  -  Diseño y arquitectura: 
+  - Programación:
 ### Desarrollo de Software
   - Análisis
   - Diseño
