@@ -17,7 +17,7 @@
   - Código ejecutable: 
 ## Ciclo de vida del Software
 ### Ingeniería de Software
-DEf:
+La Ingeniería de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. 
 ### Desarrollo de Software
   - Análisis
   - Diseño
