@@ -3,7 +3,7 @@
 ## Entornos de desarrollo
 
 # Ciclo de vida del Software
-# Tipos de Software 
+### Tipos de Software 
   · De sistema (Sistema operativo, drivers)
   · De aplicación (Suite ofimaática, Navegador, Edición de imagen)
   · De desarrollo (Editores, compiladores, interpretes)
