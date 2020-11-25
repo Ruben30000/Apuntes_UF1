@@ -21,13 +21,13 @@ La Ingeniería de Software es una de las ramas de las ciencias de la computació
 
 **Fases de la Ingeniería de Software:**
   - Etapas del proceso.
-  - Obtención de requisitos: 
-  - Análisis de los requisitos: 
-  - Finalidades del análisis de requisitos: 
-  - Limitaciones: 
-  - Especificación: 
-  -  Diseño y arquitectura: 
-  - Programación:
+  - Obtención de requisitos.
+  - Análisis de los requisitos. 
+  - Finalidades del análisis de requisitos. 
+  - Limitaciones. 
+  - Especificación. 
+  -  Diseño y arquitectura. 
+  - Programación.
 ### Desarrollo de Software
   - Análisis
   - Diseño
