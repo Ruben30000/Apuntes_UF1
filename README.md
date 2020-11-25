@@ -19,23 +19,23 @@
 ### Ingeniería de Software
 DEf:
 ### Desarrollo de Software
-· Análisis
-· Diseño
-· Codificación
-· Pruebas
-· Mantenimiento
+  - Análisis
+  - Diseño
+  - Codificación
+  - Pruebas
+  - Mantenimiento
 ### Resultado tras cada Fase (I)
-· Ingeniería de sistemas: Especificación del sistema.
-· Análisis: Especificación de requisitos del software.
-· Diseño arquitectónico: Documento de arquitectura del software.
-· Diseño detallado: Especificación de módulos y funciones.
-· Codificación: Código fuente.
+  - Ingeniería de sistemas: Especificación del sistema.
+  - Análisis: Especificación de requisitos del software.
+  - Diseño arquitectónico: Documento de arquitectura del software.
+  - Diseño detallado: Especificación de módulos y funciones.
+  - Codificación: Código fuente.
 ### Resultado tras cada Fase (II) (Continuación)
-· Pruebas de unidades: Módulos utilizados.
-· Pruebas de integración: Sistema utilizable.
-· Pruebas de sistema: Sistema aceptado.
-· Documentación: Documentación técnica y de usuario.
-· Mantenimiento: Informes de errores y control de cambios.
+  - Pruebas de unidades: Módulos utilizados.
+  - Pruebas de integración: Sistema utilizable.
+  - Pruebas de sistema: Sistema aceptado.
+  - Documentación: Documentación técnica y de usuario.
+  - Mantenimiento: Informes de errores y control de cambios.
 ### Modelos de desarrollo de Software:
 
 
