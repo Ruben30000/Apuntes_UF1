@@ -12,9 +12,9 @@
 - **CPU:** son las siglas de Central Processing Unit, lo que traducido significa Unidad Central de Procesamiento. A la CPU se la suele llamar coloquialmente como      microprocesador o simplemente procesador, y puedes considerarla como el cerebro de cualquier dispositivo.
 - **E/S:** Los dispositivos de entrada son aquellos elementos que se conectan para introducir dentro del sistema general la función o información deseada. Los dispositivos de salida son aquellos elementos que se conectan para que el sistema de procesamiento exponga la función o información deseada.
 ### Códigos Fuente, Objeto y Ejecutable
-  - Código fuente: és un programa informático es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar un programa. 
-  - Código Objeto: al código que resulta de la compilación del código fuente. ​ Puede ser en lenguaje máquina o bytecode, y puede distribuirse en varios archivos que corresponden a cada código fuente compilado.
-  - Código ejecutable: corresponde a unidades de programas. Donde la computadora puede realizar las instrucciones compiladas que tendrán enlazadas una o varias bibliotecas.
+ - **Código fuente:** és un programa informático es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar un programa. 
+ - **Código Objeto:** al código que resulta de la compilación del código fuente. ​ Puede ser en lenguaje máquina o bytecode, y puede distribuirse en varios archivos que corresponden a cada código fuente compilado.
+ - **Código ejecutable:** corresponde a unidades de programas. Donde la computadora puede realizar las instrucciones compiladas que tendrán enlazadas una o varias bibliotecas.
 ## Ciclo de vida del Software
 ### Ingeniería de Software
 La Ingeniería de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. 
