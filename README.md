@@ -32,8 +32,8 @@ La **Ingeniería** de Software es una de las ramas de las ciencias de la computa
   - **Análisis:** Es el proceso de investigar un problema que se quiere resolver. Definir claramente el Problema que se desea resolver o el sistema que se desea crear.
   - **Diseño:** Trasforma el modelo de dominio de la información, creado durante el análisis, en las estructuras de datos necesarios para implementar el Software.
   - **Codificación:** En esta etapa se tienen que traducir dichos algoritmos a un lenguaje de programación específico; es decir, las acciones definidas en los algoritmos hay que convertirlas a instrucciones.
-  - **Pruebas**
-  - **Mantenimiento**
+  - **Pruebas:** es el conjunto concreto de actividades recogidas en una fase controlable de un proyecto, por ejemplo las actividades de ejecución de un nivel de pruebas.
+  - **Mantenimiento:** es la modificación de un producto de software después de la entrega, para corregir errores, mejorar el rendimiento, u otros atributos.
 ### Resultado tras cada Fase (I)
   - Ingeniería de sistemas: Especificación del sistema.
   - Análisis: Especificación de requisitos del software.
@@ -47,7 +47,13 @@ La **Ingeniería** de Software es una de las ramas de las ciencias de la computa
   - Documentación: Documentación técnica y de usuario.
   - Mantenimiento: Informes de errores y control de cambios.
 ### Modelos de desarrollo de Software:
-
+  - Modelos clásicos(predictivos)
+      Modelo en cascada: El modelo en cascada es uno de los modelos de proceso más conocidos en el desarrollo de software. Se ha utilizado con éxito   durante décadas, pero ahora sólo se utiliza para proyectos más pequeños en los que las especificaciones son claras.
+      Modelo en V: El modelo V o modelo en cuatro niveles es un modelo empleado en diversos procesos de desarrollo, por ejemplo, en el desarrollo de software.
+  - Modelo de construcción de prototipos
+  - Modelos evolutivos o incrementales
+      Modelo en espiral (iterativos)
+      Metodologías ágiles (adaptativos)
 
 
 
