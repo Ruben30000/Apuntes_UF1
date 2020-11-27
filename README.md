@@ -48,14 +48,16 @@ La **Ingeniería** de Software es una de las ramas de las ciencias de la computa
   - Mantenimiento: Informes de errores y control de cambios.
 ### Modelos de desarrollo de Software:
   - Modelos clásicos(predictivos)
-      Modelo en cascada: El modelo en cascada es uno de los modelos de proceso más conocidos en el desarrollo de software. Se ha utilizado con éxito   durante décadas, pero ahora sólo se utiliza para proyectos más pequeños en los que las especificaciones son claras.
-      Modelo en V: El modelo V o modelo en cuatro niveles es un modelo empleado en diversos procesos de desarrollo, por ejemplo, en el desarrollo de software.
+     - Modelo en cascada: El modelo en cascada es uno de los modelos de proceso más conocidos en el desarrollo de software. Se ha utilizado con éxito   durante décadas, pero ahora sólo se utiliza para proyectos más pequeños en los que las especificaciones son claras.
+     - Modelo en V: El modelo V o modelo en cuatro niveles es un modelo empleado en diversos procesos de desarrollo, por ejemplo, en el desarrollo de software.
   - Modelo de construcción de prototipos
   - Modelos evolutivos o incrementales
-      Modelo en espiral (iterativos)
-      Metodologías ágiles (adaptativos)
-
-
+     - Modelo en espiral (iterativos)
+     - Metodologías ágiles (adaptativos)
+### PROTOTIPOS
+Los **prototipos** de Software son implementaciones realizadas con técnicas de programación del sistema interactivo propuesto que reproducen el funcionamiento de una parte importante de las funcionalidades con el objetivo de probar determinados aspectos del sistema final. Habitualmente se realizan con el lenguaje o la técnica de programación escogida para desarrollar la aplicación, aunque pueden utilizarse otras alternativas.
+### MODELO EN ESPIRAL
+Es un enfoque de desarrollo de software que puede ser considerado como una respuesta a los inconvenientes del desarrollo en cascada. El modelo en espiral describe el ciclo de vida de un software por medio de espirales, que se repiten hasta que se puede entregar el producto terminado.
 
 ## Lenguajes de Programación
 
