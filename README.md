@@ -58,6 +58,78 @@ La **Ingeniería** de Software es una de las ramas de las ciencias de la computa
 Los **prototipos** de Software son implementaciones realizadas con técnicas de programación del sistema interactivo propuesto que reproducen el funcionamiento de una parte importante de las funcionalidades con el objetivo de probar determinados aspectos del sistema final. Habitualmente se realizan con el lenguaje o la técnica de programación escogida para desarrollar la aplicación, aunque pueden utilizarse otras alternativas.
 ### MODELO EN ESPIRAL
 Es un enfoque de desarrollo de software que puede ser considerado como una respuesta a los inconvenientes del desarrollo en cascada. El modelo en espiral describe el ciclo de vida de un software por medio de espirales, que se repiten hasta que se puede entregar el producto terminado.
-
+## METODOLOGIÁS ÁGILES (I)
+  - **Kanban:** Esta metodología está diseñada para soportar un control productivo y descentralizado por demanda. En el desarrollo de software ágil se utiliza para visualizar los proyectos, al colocar una serie de tarjetas en un panel o soporte. 
+  - **Scrum:** Es un marco de trabajo o framework que se utiliza dentro de equipos que manejan proyectos complejos.
+     - Product Owner.
+     - Scrum Master.
+     - Team.
+  - **XP (eXtreme Progamming):** Es una metodología de desarrollo que pertenece a las conocidas como metodologías ágiles (otras son Scrum, Kanban…), cuyo objetivo es el desarrollo y gestión de proyectos con eficacia, flexibilidad y control.
+     - Simplicidad.
+     - Comunicación.
+     - Retroalimentación.
+     - Valentía o coraje.
+     - Respeto o humildad.
+### METODOLOGÍAS ÁGILES (II)
+  - Individuos e interacciones.
+  - Software funcionando.
+  - Colaboración con el cliente.
+  - Respuesta ante el cambio.
 ## Lenguajes de Programación
+OBTENCIÓN DE CÓDIGO EJECUTABLE
+  - **Compilar:** es el proceso de transformar un programa informático escrito en un lenguaje en un programa equivalente en otro formato.
+  - **Interpretar:** ejecuta el programa directamente, traduciendo cada sentencia en una secuencia de una o más subrutinas ya compiladas en código máquina.
+  **Dos fases:** 
+  1. Análisis léxico.
+  2. Análisis sintáctico.
+  ###LENGUAJES COMPILADOS
+  Ejemplos: C, C++.
+  ###LENGUAJES INTERPRETADOS
+  Ejemplos: PHP, Javascript.
+  ###JAVA(I)
+  - Lenguajes compilado e interpretado.
+  - El código fuente se **compila**.
+    - **bytecode** : se interpreta.
+###JAVA(II)
+**Ventajas:**
+   - Estructurado y Orientado a Objetos.
+   - Relativamente fàcil de aprender.
+   - Buena documentación y base de usuarios.
+**Desventajas:**
+   - Menos eficiente que los lenguajes compilados.
+ ## TIPOS (I)
+   - Declarativos.
+   - Imperativos.
+ ## TIPOS (II)
+ Lenguajes declarativos:
+   - Lógicos: Prolog.
+   - Funcionales: Lisp, Haskell.
+   - Algebraicos: SQL.
+ ## TIPOS (III)
+ Lenguajes imperativos:
+   - Estructurados: C.
+   - Orientados a objetos: Java.
+   - Multiparadigma: C++, Javascript.
+ Lenguajes orientados a objetos también son lenguajes estructurados.  
+ ## TIPOS(IV)
+ Tipos de lenguajes de abstracción:
+   - Bajo nivel: ensamblador.
+   - Medio nivel: C.
+   - Alto nivel: C++, Java.
+ ### EVOLUCIÓN
+   - Código binario.
+   - Ensamblador.
+   - Lenguajes estructurados.
+   - Lenguajes orientados a objetos.
+ ### CRITERIOS PARA LA SELECCIÓN DE UN LENGUAJE
+   - Campo de aplicació.
+   - Experiencia previa.
+   - Herramientas de desarrollo.
+   - Documentación disponible.
+   - Base de usuarios.
+   - Reusabilidad.
+   - Portabilidad.
+   - Imposición del cliente.
+  
+  
 
