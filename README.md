@@ -97,21 +97,21 @@ OBTENCIÓN DE CÓDIGO EJECUTABLE
    - Buena documentación y base de usuarios.
 **Desventajas:**
    - Menos eficiente que los lenguajes compilados.
- ## TIPOS (I)
+ ### TIPOS (I)
    - Declarativos.
    - Imperativos.
- ## TIPOS (II)
+ ### TIPOS (II)
  Lenguajes declarativos:
    - Lógicos: Prolog.
    - Funcionales: Lisp, Haskell.
    - Algebraicos: SQL.
- ## TIPOS (III)
+ ### TIPOS (III)
  Lenguajes imperativos:
    - Estructurados: C.
    - Orientados a objetos: Java.
    - Multiparadigma: C++, Javascript.
  Lenguajes orientados a objetos también son lenguajes estructurados.  
- ## TIPOS(IV)
+ ### TIPOS(IV)
  Tipos de lenguajes de abstracción:
    - Bajo nivel: ensamblador.
    - Medio nivel: C.
