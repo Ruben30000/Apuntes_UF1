@@ -29,9 +29,9 @@ La **Ingeniería** de Software es una de las ramas de las ciencias de la computa
   -  Diseño y arquitectura. 
   - Programación.
 ### Desarrollo de Software
-  - **Análisis**
-  - **Diseño**
-  - **Codificación**
+  - **Análisis:** Es el proceso de investigar un problema que se quiere resolver. Definir claramente el Problema que se desea resolver o el sistema que se desea crear.
+  - **Diseño:** Trasforma el modelo de dominio de la información, creado durante el análisis, en las estructuras de datos necesarios para implementar el Software.
+  - **Codificación:** En esta etapa se tienen que traducir dichos algoritmos a un lenguaje de programación específico; es decir, las acciones definidas en los algoritmos hay que convertirlas a instrucciones.
   - **Pruebas**
   - **Mantenimiento**
 ### Resultado tras cada Fase (I)
