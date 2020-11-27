@@ -17,7 +17,7 @@
  - **Código ejecutable:** corresponde a unidades de programas. Donde la computadora puede realizar las instrucciones compiladas que tendrán enlazadas una o varias bibliotecas.
 ## Ciclo de vida del Software
 ### Ingeniería de Software
-La Ingeniería de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. 
+La **Ingeniería** de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. 
 
 **Fases de la Ingeniería de Software:**
   - Etapas del proceso.
@@ -29,11 +29,11 @@ La Ingeniería de Software es una de las ramas de las ciencias de la computació
   -  Diseño y arquitectura. 
   - Programación.
 ### Desarrollo de Software
-  - Análisis
-  - Diseño
-  - Codificación
-  - Pruebas
-  - Mantenimiento
+  - **Análisis**
+  - **Diseño**
+  - **Codificación**
+  - **Pruebas**
+  - **Mantenimiento**
 ### Resultado tras cada Fase (I)
   - Ingeniería de sistemas: Especificación del sistema.
   - Análisis: Especificación de requisitos del software.
