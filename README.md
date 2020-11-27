@@ -3,9 +3,9 @@
 ## Entornos de desarrollo
 
 ### Tipos de Software 
-  - De sistema (Sistema operativo, drivers)
-  - De aplicación (Suite ofimaática, Navegador, Edición de imagen)
-  - De desarrollo (Editores, compiladores, interpretes)
+ - **De sistema** (Sistema operativo, drivers)
+ - **De aplicación** (Suite ofimaática, Navegador, Edición de imagen)  
+ - **De desarrollo** (Editores, compiladores, interpretes)
 ### Relación Hardware-Software
 - **Disco duro:** son dispositivos de almacenamiento de datos en los que podemos almacenar cualquier tipo de información digital.
 - **Memoria RAM:** se utiliza como memoria de trabajo de computadoras y otros dispositivos para el sistema operativo, los programas y la mayor parte del software.
